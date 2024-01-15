@@ -78,7 +78,8 @@ Building on the principles of never trusting system input, it's vital to establi
 
 - **Comprehensive Flow Chart for Untrusted Data**:
   - Use a structured flow chart for validating all untrusted data as seen below:
-    ![Uploaded image](https://files.oaiusercontent.com/file-2mUjmiG8qgvMY0zvTWXEYeb0?se=2024-01-15T12%3A50%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D299%2C%20immutable&rscd=attachment%3B%20filename%3Dimage.png&sig=/dHldfccwxutokYrFFNjEFitjsc1bUXZ16xX4mkx1rQ%3D)
+    ![image](https://github.com/Kademos-SecureWave/AppSec-Essentials/assets/155633892/d7d7bc1f-cb79-43f6-b93e-f0937bb45430)
+
 
 ## **Additional Considerations**
 
